@@ -19,8 +19,9 @@ Requisitos
 
 Instalación y ejecución (Windows - PowerShell)
 --------------------------------------------
-1. Abrir PowerShell en la carpeta `clienteservidorLicoreria`.
-2. Construir el proyecto (compila y empaqueta):
+1. Descargar y descomprimir el archivo zip
+2. Abrir PowerShell en la carpeta `clienteservidorLicoreria`.
+3. Construir el proyecto (compila y empaqueta):
 
 ```
 .\mvnw.cmd clean package
@@ -76,3 +77,4 @@ Para dudas o incidencias revisa el archivo `HELP.md` en esta carpeta o contacta 
 Licencia
 --------
 Revisar la raíz del repositorio para la información de licencia (si aplica).
+
